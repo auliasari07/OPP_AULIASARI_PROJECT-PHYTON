@@ -1,2 +1,0 @@
-print("Hallo,PGRI")
-print("saya sangat menyukai sekolah ini");print("saya senang karna dapat teman baru"); print("guru baru"); print("suasana baru"); print("ngga seperti di gpi"); print("gpi sangat buruk bgi ku"); print("dan ga enak di pandang")
