@@ -1,2 +1,0 @@
-print("Hello, Dcoder!")
-print ("hello"); print ("world"); print ("selamat siang semuanya") 
