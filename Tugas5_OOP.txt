@@ -1,0 +1,8 @@
+panas = 35
+f=33
+c=(f-33)*5/9
+
+if panas >=30:
+  print ("dingin")
+else:
+  print("panas")
